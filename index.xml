@@ -8,8 +8,15 @@
     <language>en</language>
     <managingEditor>youremail@domain.com (Some Person)</managingEditor>
     <webMaster>youremail@domain.com (Some Person)</webMaster>
-    <lastBuildDate>Thu, 21 Dec 2023 16:11:12 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 21 Dec 2023 16:16:41 +0800</lastBuildDate>
     <atom:link href="https://sharefy.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>测试中文标题</title>
+      <link>https://sharefy.github.io/post/%E6%B5%8B%E8%AF%95%E4%B8%AD%E6%96%87%E6%A0%87%E9%A2%98/</link>
+      <pubDate>Thu, 21 Dec 2023 16:16:41 +0800</pubDate><author>youremail@domain.com (Some Person)</author>
+      <guid>https://sharefy.github.io/post/%E6%B5%8B%E8%AF%95%E4%B8%AD%E6%96%87%E6%A0%87%E9%A2%98/</guid>
+      <description>一级标题 二级标题 三级标题 </description>
+    </item>
     <item>
       <title>First Demo</title>
       <link>https://sharefy.github.io/post/first-demo/</link>
